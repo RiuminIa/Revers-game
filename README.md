@@ -1,7 +1,7 @@
 # Assignment 2 - Reversi
  <p> My version of the game.</p>
   <img src="https://github.com/RiuminIa/Revers-game/blob/master/images/Reversi.png" alt="revers" title="revers" height="600px">
- 
+ <p>This repository contains a revers game, which is the solution to the task below.</p>
 
 B-OOP 2022
 
